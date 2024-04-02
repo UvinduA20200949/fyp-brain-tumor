@@ -1,0 +1,21 @@
+.result-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    width: 80%;
+  }
+  
+  .result-category {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .result-description {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+  }
+  

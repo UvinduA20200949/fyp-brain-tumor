@@ -1,0 +1,43 @@
+.image-uploader {
+    /* background-color: #6fbd2f; */
+    text-align: center;
+    margin-top: 20px;
+    width: 30%;
+    height: 50%;
+  }
+  
+  .upload-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .uploaded-image {
+    width: 70%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer; /* Change cursor to pointer when hovering over the image */
+  }
+  
+  .file-input {
+    display: none; /* Hide the file input element */
+  }
+  
+  .clear-button {
+    background-color: #cbcedb;
+    color: #07050b;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .clear-button:hover {
+    background-color: #6e7ac8; /* Darker color on hover */
+    box-shadow: #6e7ac8;
+  }
+  

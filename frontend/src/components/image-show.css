@@ -1,0 +1,24 @@
+.image-show {
+    /* background-color: #2fbd71; */
+    text-align: center;
+    margin-top: 20px;
+    width: 30%;
+    height: 50%;
+  }
+  
+  .image-heading {
+    font-family: Arial, sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .segmented-image {
+    width: 70%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer; /* Change cursor to pointer when hovering over the image */
+  }
+  
+
+  

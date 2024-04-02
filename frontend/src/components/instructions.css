@@ -1,0 +1,28 @@
+.instructions {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    
+  }
+  
+  .instruction-heading {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .instruction-text {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .instruction-list {
+    margin-top: 10px;
+    margin-left: 20%;
+  }
+  
+  .instruction-list li {
+    margin-bottom: 2px;
+    list-style-type: decimal; /* Use decimal numbering for list items */
+    padding-left: 20px;/* Adjust the left padding */
+  }
+  
