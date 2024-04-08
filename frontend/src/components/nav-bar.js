@@ -5,7 +5,7 @@ import logo from '../images/logo.png';
 function NavBar() {
   return (
     <nav className='navbar'>
-      <img src={logo} alt='Tumor Inspect' className='navbar-logo' />
+      <img src={logo} alt='Rad Sult' className='navbar-logo' />
     </nav>
   );
 }
